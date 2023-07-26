@@ -1,0 +1,10 @@
+* cletris
+
+A Tetris game written in Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nlamirault/cletris.git   |
+| commit  | 9aba081  |
+| systems | cletris |
+|---------+-------------------------------------------|
+
